@@ -13,10 +13,7 @@ if (process.env.JAWSDB_URL) {
     {
       host: 'localhost',
       dialect: 'mysql',
-      port: 3306,
-      database: 'techblog_db',
-      user: 'root',
-      password: 'Ivan001!'
+      port: 3306
     }
   );
 }
