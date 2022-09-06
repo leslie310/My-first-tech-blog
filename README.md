@@ -1,7 +1,7 @@
-# My-first-tech-blog
+# My-first-tech-blog 🖥️
 
 ## Description
-- Welcome to my blog page!! Here you will be able to add blogs! You sign up and view your profile as well as being to log in and out of the page. 
+- Welcome :hearts: to my blog page!! Here you will be able to add blogs! You sign up and view your profile as well as being to log in and out of the page. 
 I enjoyed making this app and i hope you enjoy it as well!
 
 ## Example
