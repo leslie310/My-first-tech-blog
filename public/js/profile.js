@@ -6,23 +6,6 @@ const newFormHandler = async (event) => {
     const description = document.querySelector('#blog-entry').value.trim();
   };
   
-    // unnecessary funding code
-  //   if (name && needed_funding && description) {
-  //     const response = await fetch(`/api/blogs`, {
-  //       method: 'POST',
-  //       body: JSON.stringify({ name, needed_funding, description }),
-  //       headers: {
-  //         'Content-Type': 'application/json',
-  //       },
-  //     });
-  
-  //     if (response.ok) {
-  //       document.location.replace('/profile');
-  //     } else {
-  //       alert('Failed to create project');
-  //     }
-  //   }
-  // };
   
   const delButtonHandler = async (event) => {
     if (event.target.hasAttribute('data-id')) {
