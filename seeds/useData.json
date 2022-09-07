@@ -2,11 +2,11 @@
   {
       "name": "Josh",
       "email": "Josh@josh.com",
-      "password": "Love football"
+      "password": "password"
   },
   {
       "name": "Emily",
       "email": "Emily@emily.com",
-      "password": "Beautiful weather"
+      "password": "password"
   }
 ]
